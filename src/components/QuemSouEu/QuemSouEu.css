@@ -1,0 +1,26 @@
+.QuemSouEu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0;
+}
+
+.MinhaFoto{
+    background-image: url(../../assets/img/Eu-Athos.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.TextoSobreMim{
+    margin-left: 50px;
+    width: 50%;
+}
+
+.TextoSobreMim p{
+    font-size: 1.2rem;
+    color: white;
+}
