@@ -1,0 +1,10 @@
+.img-da-main{
+    background-image: url('../../assets/img/pc-e-cafe.jpg');
+    background-size: cover;
+    background-position: 100% 20%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+}
+
+
