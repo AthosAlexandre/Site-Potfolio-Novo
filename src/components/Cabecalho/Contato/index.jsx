@@ -22,7 +22,6 @@ function Contato() {
 
       <div className="celular">
         <div className="phone"><img src={phone} alt="" /></div>
-        <span>TELEFONE DE <br/> CONTATO</span>
         <h3>(67)99836-9815</h3>
       </div>
     </section>
